@@ -14,9 +14,6 @@
     </string-array>
 
 
-
-
-
     <string name="India">
         India is a vast South Asian country with diverse terrain – from Himalayan peaks to Indian Ocean coastline – and history reaching back 5 millennia.
         In the north, Mughal Empire landmarks include Delhi\’s Red Fort complex and massive Jama Masjid mosque, plus Agra’s iconic Taj Mahal mausoleum.
@@ -58,10 +55,8 @@
         houses the European Central Bank.
     </string>
 
-
-
-
-
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
